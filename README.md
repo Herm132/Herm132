@@ -1,9 +1,9 @@
-<a href="https://herm-dev.pages.dev/">
+<a align="center"  href="https://herm-dev.pages.dev/">
  <img src = "/bitmap.svg">
 
  </a>
 
-<h1>  Hey I'm Harold Reyes</h1>
+<h1 align="center">  Hey I'm Harold Reyes</h1>
 
 **About Me!**
 
@@ -79,8 +79,7 @@
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
-    <br>
-    
+    <br>    
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
