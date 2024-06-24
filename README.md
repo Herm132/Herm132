@@ -1,14 +1,17 @@
 <a href="https://herm-dev.pages.dev/">
- #Harold Reyes
+ <img src = "/bitmap.svg">
+
  </a>
+
+Hey I'm Harold Reyes
 
 **About Me!**
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
+- 👨🏽‍💻  I’m currently Full Stack Developer
+- 🌱 I’m currently developing Web aplications projects and Data Science projects.
+- 🤔 My interest lies in front-end web development, Data Science, Machine Learning, Deep Learning and Kotlin.
+- 💬 Ask me about anything from [harol_reyes100@hotmail.com], I always to answer!
+- 🌐 You can see my personal website through [here](https://herm-dev.pages.dev/)
 
 <p align="center">
   <a href="#">
