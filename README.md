@@ -3,7 +3,7 @@
 
  </a>
 
-#Hey I'm Harold Reyes
+<h1>  Hey I'm Harold Reyes</h1>
 
 **About Me!**
 
