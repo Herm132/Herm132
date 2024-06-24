@@ -8,7 +8,7 @@
 **About Me!**
 
 - 👨🏽‍💻  I’m currently Full Stack Developer
-- 🌱 I’m currently developing Web aplications projects and Data Science projects.
+- 🌱 I’m currently developing Web applications projects and Data Science projects.
 - 🤔 My interest lies in front-end web development, Data Science, Machine Learning, Deep Learning and Kotlin.
 - 💬 Ask me about anything from [harol_reyes100@hotmail.com], I always to answer!
 - 🌐 You can see my personal website through [here](https://herm-dev.pages.dev/)
