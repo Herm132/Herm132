@@ -1,5 +1,5 @@
-<a align="center"  href="https://herm-dev.pages.dev/">
- <img src = "/bitmap.svg">
+<a   href="https://herm-dev.pages.dev/">
+ <img align="center" src = "/bitmap.svg">
 
  </a>
 
