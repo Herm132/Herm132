@@ -4,11 +4,11 @@
 
 <h3><u>About Me!</u></h3>
 
-- 👨🏽‍💻  I’m currently Full Stack Developer
+- 👨🏽‍💻  I’m currently Full Stack Developer.
 - 🌱 I’m currently developing Web applications projects and Data Science projects.
 - 🤔 My interest lies in front-end web development, Data Science, Machine Learning, Deep Learning and Kotlin.
-- 💬 Ask me about anything from [harol_reyes100@hotmail.com], I always to answer!
-- 🌐 You can see my personal website through [here](https://herm-dev.pages.dev/)
+- 💬 Ask me about anything from [email](harol_reyes100@hotmail.com), I always to answer!
+- 🌐 You can see my personal website through [here](https://herm-dev.pages.dev/).
 
 <h2 align="center"><u>Skill Set</u></h2>
 <p style="display: inline-block;" align="center">
