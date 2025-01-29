@@ -45,8 +45,7 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Herm132&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Herm132&theme=holi-theme">
+
 </p>
 
 
